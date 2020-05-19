@@ -14,7 +14,7 @@ Quelques commandes permettent aux participant·e·s d'interagir :
 
 ## Fonctionnement
 
-![schéma de fonctionnement](http://github.com/emoc/pouetBot/mibot_schema_fonctionnement.png)
+![schéma de fonctionnement](https://github.com/emoc/pouetBot/mibot_schema_fonctionnement.png)
 
 ## Documentation
 
